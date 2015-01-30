@@ -56,7 +56,7 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('foundation_test');
+		$this->load->view('home');
 	}
 }
 
