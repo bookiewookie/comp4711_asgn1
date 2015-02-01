@@ -10,7 +10,7 @@ body
 .parallax-background 
 {
 	background-color: #0078A0;
-	height: 620px;
+	height: 320px;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -31,10 +31,55 @@ body
 {
 	max-width: 100%;
 	position: relative;
-	top: 500px;
+	top: 360px;
 	padding: 50px;
 	font-size: 20px;
 	background-color: #fff;
 }
 
 /* end parallax */              
+
+/* begin footer */
+
+.full-width {
+  max-width: 1400px;
+}
+
+.footer {
+  background-color: #2980b9;
+  padding: 2rem 4rem;
+  text-align: center;
+  color: #fff;
+}
+.footer i {
+  font-size: 100px;
+}
+
+.footer h4 {
+  color: #fff;
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-top: 2.5rem;
+  margin-bottom: 10px;
+}
+.footer p, .footer a {
+  font-weight: 300;
+  font-size: .8em;
+  color: #fff;
+}
+
+@media only screen and (min-width: 40.063em) {
+  .footer .columns:nth-child(n+2) {
+    border-left: 1px solid #b3b3b3;
+    min-height: 280px;
+  }
+}
+.footer-links {
+  list-style-type: none;
+}
+.footer-links li {
+  margin-top: .5em;
+}
+
+/* end footer */

@@ -6,6 +6,8 @@
 	<title>Bookie Wookie | Welcome</title>
 	<link rel="stylesheet" href="assets/foundation/css/foundation.css" />
 	<link rel="stylesheet" href="assets/foundation/css/app.css">
+	<!-- For Foundation footer icons, put this in your head -->
+	<link href="http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
 	<script src="assets/foundation/js/vendor/modernizr.js"></script>
   </head>
   <body>
@@ -60,6 +62,7 @@
 	    <p><i class="fi-arrow-down"></i></p>
 	  </div>
 	</div>
+	
 
 	<!--begin body content -->
 	<div class="parallax-content">
@@ -74,7 +77,44 @@
 	  <p>Chicken kielbasa swine ham hock filet mignon strip steak bacon fatback pork t-bone. Ground round shankle tongue, jowl flank spare ribs beef leberkas ham boudin shank capicola short ribs. Drumstick pork loin turkey pork chop salami andouille pork belly. Short loin tongue tri-tip, hamburger filet mignon pastrami doner shoulder turkey ball tip t-bone jerky ham chicken.</p>
 
 	  <p>Ground round flank pork loin salami, cow biltong hamburger swine brisket tongue tenderloin drumstick meatball. Biltong tongue salami ham shankle, leberkas meatloaf sirloin ball tip. Pork loin pastrami spare ribs beef capicola sausage kevin filet mignon pork chop. Bacon jerky turkey shoulder cow capicola ball tip shank. Ham tongue tail tri-tip kielbasa ham hock frankfurter meatball cow brisket. Shankle sausage filet mignon biltong pork loin. Short ribs spare ribs chuck pig meatloaf shoulder cow tail brisket biltong ball tip ham hock.</p>
-	</div>              
+
+
+    <!-- begin footer -->
+	<footer class="footer">
+	  <div class="row full-width">
+	    <div class="small-12 medium-3 large-4 columns">
+	      <i class="fi-laptop"></i>
+	      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum maiores alias ea sunt facilis impedit fuga dignissimos illo quaerat iure in nobis id quos, eaque nostrum! Unde, voluptates suscipit repudiandae!</p>
+	    </div>
+	    <div class="small-12 medium-3 large-4 columns">
+	      <i class="fi-html5"></i>
+	      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit impedit consequuntur at! Amet sed itaque nostrum, distinctio eveniet odio, id ipsam fuga quam minima cumque nobis veniam voluptates deserunt!</p>
+	    </div>
+	    <div class="small-6 medium-3 large-2 columns">
+	      <h4>Work With Me</h4>
+	      <ul class="footer-links">
+	        <li><a href="#">What I Do</a></li>
+	        <li><a href="#">Pricing</a></li>
+	        <li><a href="#">Events</a></li>
+	        <li><a href="#">Blog</a></li>
+	        <li><a href="#">FAQ's</a></li>
+	      <ul>
+	    </div>
+	    <div class="small-6 medium-3 large-2 columns">
+	      <h4>Follow Me</h4>
+	      <ul class="footer-links">
+	        <li><a href="#">GitHub</a></li>
+	        <li><a href="#">Facebook</a></li>
+	        <li><a href="#">Twitter</a></li>
+	        <li><a href="#">Instagram</a></li>
+	        <li><a href="#">Dribbble</a></li>
+	      <ul>
+	    </div>
+	  </div>
+	</footer>              
+    <!-- end footer-->
+
+    </div>              
     <!-- end body content -->
     <!-- end parallax -->
 
