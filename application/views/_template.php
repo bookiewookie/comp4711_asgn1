@@ -39,10 +39,10 @@
 
 		    			<ul class="dropdown"> 
 		    				<li>
-		    					<a href="/legal">FAQ</a>
+		    					<a href="/legal">Legal</a>
 		    				</li> 
 		    				<li>
-		    					<a href="/legal">Legal</a>
+		    					<a href="/faq">FAQ</a>
 		    				</li> 
 		    			</ul> 
 		    		</li> 
@@ -79,12 +79,12 @@
 	      <p>An HTML 5 site build with Code Igniter for COMP 4711</p>
 	    </div>
 	    <div class="small-6 medium-3 large-2 columns">
-	      <h4>Work With Me</h4>
+	      <h4>Site Map</h4>
 	      <ul class="footer-links">
 	        <li><a href="#">Post an ad</a></li>
 	        <li><a href="/ads">Browse ads</a></li>
 	        <li><a href="/legal">Legal</a></li>
-	        <li><a href="/legal">FAQ</a></li>
+	        <li><a href="/faq">FAQ</a></li>
 	      <ul>
 	    </div>
 	    <div class="small-6 medium-3 large-2 columns">
