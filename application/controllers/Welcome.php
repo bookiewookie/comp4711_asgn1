@@ -59,6 +59,12 @@ class Welcome extends Application {
 		$this->data['pagebody'] = 'home';
 		$this->render();
 	}
+
+	public function disclaimer()
+	{
+		$this->data['pagebody'] = 'legal';
+		$this->render();
+	}
 }
 
 /* End of file welcome.php */
