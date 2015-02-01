@@ -1,10 +1,14 @@
-body {
+body 
+{
 	font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif !important;
 	font-weight: 200;
 	font-size: 20px;
 }
 
-.parallax-background {
+/* begin parallax */
+
+.parallax-background 
+{
 	background-color: #0078A0;
 	height: 620px;
 	background-repeat: no-repeat;
@@ -16,17 +20,21 @@ body {
 	width: 100%;
 }
 
-.intro-text {
+.intro-text 
+{
 	font-size: 50px;
 	color: #fff;
 	text-align: center;
-	margin-top: 15%;
+	margin-top: 5%;
 }
-.parallax-content {
+.parallax-content 
+{
 	max-width: 100%;
 	position: relative;
 	top: 500px;
 	padding: 50px;
 	font-size: 20px;
 	background-color: #fff;
-}              
+}
+
+/* end parallax */              
