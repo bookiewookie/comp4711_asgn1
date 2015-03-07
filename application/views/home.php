@@ -1,13 +1,95 @@
-<p>Bacon ipsum dolor sit amet chicken pork loin hamburger ball tip, swine tenderloin salami meatball boudin tri-tip fatback shank bacon. Pork salami kevin, brisket spare ribs strip steak ham hock porchetta. Pork belly short loin tail porchetta. Pork pig meatball, beef ribs doner jerky tri-tip hamburger filet mignon strip steak ball tip ham tail tongue corned beef.</p>
+<div class="row">
+  <div class="large-3 columns ">
+    
+    <div class="panel">
+      <h3><a href="#">Bookie wookie</a></h5>
+      <hr/>
+        <div class="section-container vertical-nav" data-section data-options="deep_linking: false; one_up: true">
+          <section class="section">
+            <h3 class="title"><a href="#">Home</a></h5>
+          </section>
+          
+          <section class="section">
+            <h3 class="title"><a href="/ads">Browse Ads</a></h5>
+          </section>
+          
+          <section class="section">
+            <h3 class="title"><a href="#">Post an Ad</a></h5>
+          </section>
+          
+          <section class="section">
+            <h3 class="title"><a href="#">Search</a></h5>
+          </section>
+          
+          <section class="section">
+            <h3 class="title"><a href="/faq">FAQ</a></h5>
+          </section>
+          
+          <section class="section">
+            <h3 class="title"><a href="/legal">Legal</a></h5>
+          </section>
+        </div>
 
-<p>Flank spare ribs capicola, strip steak biltong pancetta bresaola tri-tip cow landjaeger. Short ribs sirloin beef ribs, flank capicola ribeye turducken. Sirloin boudin andouille tail. Ham flank tail sausage t-bone, jerky landjaeger kevin porchetta ground round pork belly.</p>
+      </div>
+  </div>
+        
+         
+         
+  <div class="large-6 columns">
 
-<p>Pork loin doner biltong shoulder meatball flank. Sirloin shankle ground round tail, short loin prosciutto beef ribs salami pork pancetta kielbasa. Brisket spare ribs jerky filet mignon flank. Turducken ham sausage pork loin salami. Ball tip meatloaf shank pancetta hamburger meatball. Jowl beef pork loin tenderloin turducken, pastrami capicola filet mignon ham hock pork belly t-bone jerky ball tip kevin.</p>
+     
+    <div class="row">
+      <div class="large-2 columns small-3"><img src="http://placehold.it/80x80&text=[img]"/></div>
+      <div class="large-10 columns">
+        <p><strong>Advanced Java</strong></p>
+        <p>A great advanced java book that covers lots of topics!</p>
+        <p>Price: $20 Condition: Good</p>
+        <ul class="inline-list">
+          <li><a href="">Reply</a></li>
+          <li><a href="">Share</a></li>
+        </ul>
+      </div>
+    </div>
+     
 
-<p>Filet mignon shank pastrami pork loin ham jerky corned beef chuck drumstick ribeye prosciutto pork belly tail. Beef leberkas brisket ham hock tenderloin tail tri-tip pork chop. Corned beef boudin andouille tail fatback chicken strip steak biltong pancetta pork loin tri-tip landjaeger pastrami kevin. Tongue spare ribs kevin ribeye shoulder swine.</p>
+    <hr/>
 
-<p>Chicken kielbasa swine ham hock filet mignon strip steak bacon fatback pork t-bone. Ground round shankle tongue, jowl flank spare ribs beef leberkas ham boudin shank capicola short ribs. Drumstick pork loin turkey pork chop salami andouille pork belly. Short loin tongue tri-tip, hamburger filet mignon pastrami doner shoulder turkey ball tip t-bone jerky ham chicken.</p>
+     
+    <div class="row">
+      <div class="large-2 columns small-3"><img src="http://placehold.it/80x80&text=[img]"/></div>
+      <div class="large-10 columns">
+        <p><strong>Advanced Java</strong></p>
+        <p>A great advanced java book that covers lots of topics!</p>
+        <p>Price: $20 Condition: Good</p>
+        <ul class="inline-list">
+          <li><a href="">Reply</a></li>
+          <li><a href="">Share</a></li>
+        </ul>
+      </div>
+    </div>
+     
 
-<p>Ground round flank pork loin salami, cow biltong hamburger swine brisket tongue tenderloin drumstick meatball. Biltong tongue salami ham shankle, leberkas meatloaf sirloin ball tip. Pork loin pastrami spare ribs beef capicola sausage kevin filet mignon pork chop. Bacon jerky turkey shoulder cow capicola ball tip shank. Ham tongue tail tri-tip kielbasa ham hock frankfurter meatball cow brisket. Shankle sausage filet mignon biltong pork loin. Short ribs spare ribs chuck pig meatloaf shoulder cow tail brisket biltong ball tip ham hock.</p>
+    <hr/>
 
+     
+    <div class="row">
+      <div class="large-2 columns small-3"><img src="http://placehold.it/80x80&text=[img]"/></div>
+      <div class="large-10 columns">
+        <p><strong>Advanced Java</strong></p>
+        <p>A great advanced java book that covers lots of topics!</p>
+        <p>Price: $20 Condition: Good</p>
+        <ul class="inline-list">
+          <li><a href="">Reply</a></li>
+          <li><a href="">Share</a></li>
+        </ul>
+      </div>
+    </div>
 
+  </div> 
+   
+  <aside class="large-3 columns hide-for-small">
+    <p><img src="http://placehold.it/300x440&text=[ad]"/></p>
+    <p><img src="http://placehold.it/300x440&text=[ad]"/></p>
+  </aside>
+
+</div>

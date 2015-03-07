@@ -67,6 +67,7 @@
 	<!--begin body content -->
 	  {content}
 	<!-- end body content -->
+    
     <!-- begin footer -->
 	<footer class="footer">
 	  <div class="row full-width">
